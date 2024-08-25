@@ -19,18 +19,18 @@ As an aspiring software engineer, I thrive on detail-oriented work and the chall
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
-- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
-- 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
-- 💪 This is where I write, code and solve problems:
+👨‍🎓 I'm a Senior Metallurgical Engineering Student at IIT Varanasi
+🔭 I’m currently working on Aureeture, a startup that connects students with corporate leaders
+👨‍🏫 I’m passionate about Software Development and Data Science
+💬 Ask me about predictive modeling and data analytics—I’m always happy to help
+✍ I'm an aspiring tech blogger with a focus on career guidance and innovation
+🌱 I'm currently learning:
+Advanced Python and SQL for data-driven projects
+Exploring the React ecosystem and web development <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> tools
+👯 Join me in Aureeture's workshops if you're keen on career growth and entrepreneurship
+📬 How to reach me: rishabh.soni@gmail.com
+📝 Resume
+💪 This is where I build, innovate, and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AswinBarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
