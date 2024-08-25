@@ -10,11 +10,9 @@
 
 ## Glad to see you here! &nbsp; 
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a tech enthusiast and budding software developer with a passion for data analytics and predictive modeling. I love diving into complex problems, learning new technologies, and applying my skills to create meaningful solutions.
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
+As an aspiring software engineer, I thrive on detail-oriented work and the challenge of turning innovative ideas into reality. Whether it's through coding, collaborating on projects, or sharing knowledge, I’m driven by a desire to make a positive impact in the tech world.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
